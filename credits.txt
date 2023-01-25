@@ -1,0 +1,7 @@
+- ops by cables user pandur (https://cables.gl/user/pandur)
+- cables by undefined development (http://undev.studio)
+- glmatrix by toji (https://github.com/toji/gl-matrix)
+- ops by cables user simod (https://cables.gl/user/simod)
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+- DRACO Compression Loader by three.js (https://github.com/mrdoob/three.js/blob/master/examples/jsm/loaders/DRACOLoader.js)
+- ops by cables user madsduggen (https://cables.gl/user/madsduggen)
